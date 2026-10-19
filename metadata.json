@@ -1,0 +1,6 @@
+{
+  "name": "Broker QX Admin & Traderoom",
+  "description": "Painel administrativo do operador da casa Broker QX com controle de ativos, payouts em tempo real, depósitos PIX/USDT, gestão de usuários KYC e sala de operações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
